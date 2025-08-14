@@ -14,7 +14,7 @@ A sleek, responsive, and lightning-fast currency converter built using HTML, CSS
 
 🖼 Live Demo
 
-🔗 View Project Online (Add your GitHub Pages or hosting link here)
+🔗 https://foreignmoneyexchange.netlify.app/
 
 🛠 Built With
 
