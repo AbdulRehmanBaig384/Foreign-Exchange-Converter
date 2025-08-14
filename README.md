@@ -1,4 +1,5 @@
-<img width="1916" height="903" alt="image" src="https://github.com/user-attachments/assets/2d9fa2f5-125a-4de3-a13c-a8846428680e" />
+<p align='center'>
+<img width="1916" height="903" alt="image" src="https://github.com/user-attachments/assets/2d9fa2f5-125a-4de3-a13c-a8846428680e" /></p>
 
 # Foreign-Exchange-Converter
 Simple Foreign Exchange Converter using HTML,CSS and JavaScript.
