@@ -1,7 +1,5 @@
-const countryList = {
-    AED: "AE",
-    AFN: "AF",
-    XCD: "AG",
+const countryList = { 
+    AED: "AE", AFN: "AF", XCD: "AG",
     ALL: "AL",
     AMD: "AM",
     ANG: "AN",
